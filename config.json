@@ -1,5 +1,10 @@
-{"x": -100, 
-"y": 100, 
-"minutes": 2, 
-"seconds": 30, 
-"enable_alt_tab": true}
+{
+  "x": -994,
+  "y": 112,
+  "minutes": 2,
+  "seconds": 30,
+  "enable_alt_tab": true,
+  "password": "",
+  "password_alt_tab_delay_ms": 20,
+  "password_key_interval_ms": 10
+}
